@@ -1,0 +1,36 @@
+{
+  "name": "simply-validations",
+  "version": "0.0.1",
+  "description": "A simple JavaScript package for data validations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Simply-Development/JavaScript-Validations.git"
+  },
+  "keywords": [
+    "Validations",
+    "JavaScript"
+  ],
+  "author": {
+    "name": "Simply Development",
+    "url": "https://simply-development.com",
+    "email": "hello@simply-development.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Simply-Development/JavaScript-Validations/issues"
+  },
+  "homepage": "https://github.com/Simply-Development/JavaScript-Validations#readme",
+  "dependencies": {
+    "jest": "^26.6.3",
+    "libphonenumber-js": "^1.9.13"
+  },
+  "devDependencies": {
+    "eslint": "^7.22.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1"
+  }
+}
